@@ -1,7 +1,7 @@
 # fbrowse
 A simple file explorer for Linux written in C with ncurses. Based on Ranger.
 
-![alt text](fbrowse_screenshot.jpg?raw=true)
+![alt text](fbrowse_screenshot.png?raw=true)
 
 * Uses vim-like directional keybindings. 
 * Plaintext file previews and archive listings
